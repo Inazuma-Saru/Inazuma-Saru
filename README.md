@@ -1,4 +1,4 @@
-## Oi! Eu sou a Mecha-Labs 
+## Hi! I'm Mecha-Labs
  <div>
   <a href="https://github.com/Mecha-Labs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mecha-Labs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
